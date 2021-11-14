@@ -1,16 +1,7 @@
-﻿///----------( Created By KurrXd )----------\\\
+﻿///----------( Created By Keyz )----------\\\
 
 /**
-BASE:DENIS
-TQ TO:
-@Angga
-@DcodeDenpa
-@Aldy Fauzy
-@PAJAR
-@KEMOL
-@ADI
-@KurrXd
-@Finx
+
 * Note:
 * Kalau Mau Recode/Reupload Kasih Credit
 **/
@@ -1033,10 +1024,10 @@ if (budy.startsWith('kurr')){
 sendButMessage(from, `${JSON.stringify(me, null, 2)}`, "*_© KurrXd_*", [{buttonId: 'igm', buttonText: {displayText: 'Instagram'}, type: 1},{buttonId: 'ytm', buttonText: {displayText: 'YouTube'}, type: 1}], {quoted:ftrol, contextInfo: { forwardingScore: 508, isForwarded: true}})
 }
 if(isButton == 'igm'){
-reply('http://instagram.com/kurrsadboy')
+reply('g ada ig')
 }
 if(isButton == 'ytm'){
-reply('http://youtube.com/c/KurrXd')
+reply('g ada yt')
 }
 
    const sotoy = [
@@ -1137,7 +1128,7 @@ else if(menusimpel = true){
 				stst = stst.status == 401 ? '' : stst.status
        menu = `┌───「 \`\`\`Kurz Bot Assistan\`\`\` 」
 │
-🏴‍☠️ _Creator : *KurrXd* 
+🏴‍☠️ _Creator : *Keyz* 
 🏴‍☠️ _Battery : ${baterai.battery}_
 🏴‍☠️ _Mode : ${publik ? 'Public' : 'Self'}_
 🏴‍☠️ _Total Hit : ${cmhit.length}_
@@ -1172,7 +1163,7 @@ stod = `${sender}`
 				stst = stst.status == 401 ? '' : stst.status
 			
 menunya = `╭─❒ 「 Bot Info 」 ❒
-🏴‍☠️ _Creator : *KurrXd*
+🏴‍☠️ _Creator : *Keyz*
 🏴‍☠️ _Battery : ${baterai.battery}_
 🏴‍☠️ _Mode : ${publik ? 'Public' : 'Self'}_
 🏴‍☠️ _Total Hit : ${cmhit.length}_
@@ -1476,7 +1467,7 @@ const serialUser = createSerial(18)
 🏴‍☠️ *🏴‍☠️ Pengguna:* ${_registered.length}
 └❏
 
-*「 Kurz Bot Assistan 」*`
+*「 Keyz Botz 」*`
 gbutsan = [
 {buttonId:`menu`,buttonText:{displayText:'🏴‍☠️MENU🏴‍☠️'},type:1},
 {buttonId:`donasi`,buttonText:{displayText:'💗DONASI💗'},type:1}
@@ -2678,7 +2669,7 @@ break
 		anu =`PRICELIST SEWABOT
 		10K:6BULAN
 		20K:MANEN
-		SC? YT KurrXd OFFICIAL`
+		SC? chat owner`
  buttons = [
 {buttonId: `menu`, buttonText: {displayText: 'BACK➡️'}, type: 1},
 {buttonId:`donasi`,buttonText:{displayText:'💗DONASI💗'},type:1},
